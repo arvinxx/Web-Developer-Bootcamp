@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"red"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"doc",
+				"document\t: Document Window"
+			],
+			[
+				"i",
+				"if\tif"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"fu",
+				"full"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"cont",
+				"container-fluid"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"so",
+				"solid"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"texa",
+				"text-align"
+			],
+			[
+				"fw",
+				"font-weight"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"borderc",
+				"border-color"
+			],
+			[
+				"co",
+				"cover"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "ip",
+		"selected_items":
+		[
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"indenta",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inp",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/arvin/Desktop/todos.js",
+		"/Users/arvin/Library/Application Support/Sublime Text 3/Packages/JavaScript Completions/JavaScript-Completions.sublime-settings",
+		"/Users/arvin/Library/Application Support/Sublime Text 3/Packages/User/sbc-setting.sublime-settings",
+		"/Users/arvin/Library/Application Support/Sublime Text 3/Packages/Better Completion/sbc-setting.sublime-settings",
+		"/Users/arvin/Desktop/a.css",
+		"/Users/arvin/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/arvin/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/arvin/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/arvin/Desktop/list.html",
+		"/Users/arvin/Library/Application Support/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/Users/arvin/Desktop/index.html",
+		"/Users/arvin/Desktop/cat.html",
+		"/Users/arvin/Desktop/app.css",
+		"/Users/arvin/Desktop/gallery.html",
+		"/Users/arvin/Desktop/jsdemo.html",
+		"/Users/arvin/Desktop/script.js",
+		"/Users/arvin/Library/Application Support/Sublime Text 3/Packages/User/Normalize Indentation.sublime-settings",
+		"/Users/arvin/Desktop/basics.html",
+		"/Users/arvin/Desktop/bootstrap.css",
+		"/Users/arvin/Desktop/blog.html",
+		"/Users/arvin/Desktop/blog.css",
+		"/Users/arvin/Desktop/img.css",
+		"/Users/arvin/Desktop/imageLinks.html",
+		"/Users/arvin/Desktop/row.html",
+		"/Users/arvin/Desktop/row.css",
+		"/Users/arvin/Downloads/01_Fonts_Intro/styles.css",
+		"/Users/arvin/Downloads/01_Fonts_Intro/fonts.html",
+		"/Users/arvin/Desktop/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/Users/arvin/Desktop/09_Selector_Exercise_Starter/selectors.css",
+		"/Users/arvin/Desktop/inher.html",
+		"/Users/arvin/Desktop/demo.html",
+		"/Users/arvin/Desktop/selectors.css",
+		"/Users/arvin/Desktop/todocss.css",
+		"/Users/arvin/Desktop/todolist.html",
+		"/Users/arvin/Desktop/test.css",
+		"/Users/arvin/Desktop/aboutme.html",
+		"/Users/arvin/Downloads/example-gui-config.json",
+		"/Users/arvin/Desktop/export.json",
+		"/Users/arvin/Desktop/111.c",
+		"/Users/arvin/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/arvin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/arvin/百度云同步盘/创业设计课程资料/上交内容/暑假作业/第三周/第一组-李昊天/个人部分/徐漾/【KeyShot】.md",
+		"/Users/arvin/百度云同步盘/创业设计课程资料/上交内容/暑假作业/第三周/第一组-李昊天/个人部分/徐漾/《视觉艺术用光》.md",
+		"/Users/arvin/百度云同步盘/创业设计课程资料/上交内容/暑假作业/第三周/第一组-李昊天/个人部分/徐漾/《产品设计与开发》.md",
+		"/Users/arvin/Desktop/One-on-One- Intermediate/20. Printing a Document/01 Local and commercial printing [ENG_CHN].srt",
+		"/Users/arvin/Downloads/sketch_plugin-master/README.md",
+		"/Users/arvin/Documents/设计资料库/渲染资料库/Keyshot Library/产品设计常用材质/金属同心拉丝.mtl",
+		"/Users/arvin/百度云同步盘/创业设计课程资料/渲染课件组织/KS操作渲染流程/01软件配置/Cloud Library.srt",
+		"/Volumes/xclient.info/README.md",
+		"/Applications/Adobe Dreamweaver CC 2017/configuration/Shared/HandleBars/handlebars-v3.0.0.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "list.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

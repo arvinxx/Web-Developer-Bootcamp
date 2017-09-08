@@ -1,0 +1,27 @@
+body{
+	border: solid 20px #bdc3c7;
+	max-width: 700px;
+	margin:  20px auto;
+	padding: 20px;	
+	font-family: "source sans pro";
+	font-size: 18px;
+}
+.quote{
+	border-left: 5px solid #bdc3c7;
+	padding-left: 10px;
+
+}
+h2{
+	font-size: 2.5em;
+	color: #2c3e50;
+}
+.date{
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+
+.post{
+	border-bottom: solid 1px #bdc3c7;
+	margin: 30px 0 30px 0;
+}
