@@ -1,6 +1,6 @@
 {
   "name": "yelpcamp",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A web exerices",
   "main": "app.js",
   "scripts": {
@@ -11,6 +11,8 @@
   "dependencies": {
     "body-parser": "^1.17.2",
     "ejs": "^2.5.7",
-    "express": "^4.15.4"
-  }
+    "express": "^4.15.4",
+    "mongoose": "^4.11.10"
+  },
+  "devDependencies": {}
 }
