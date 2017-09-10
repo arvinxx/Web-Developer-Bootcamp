@@ -1,11 +1,18 @@
 {
   "name": "blogsite",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "a blogsite to learn RESTful",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ArvinX",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.0",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "method-override": "^2.3.9",
+    "mongoose": "^4.11.10"
+  }
 }
